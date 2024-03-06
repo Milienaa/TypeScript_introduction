@@ -1,0 +1,23 @@
+{
+  "name": "typescript_hw",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "node.js",
+    "API",
+    "axios"
+  ],
+  "author": "Bezklynska Miliena",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "axios": "^1.6.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
